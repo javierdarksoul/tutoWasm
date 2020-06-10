@@ -9,7 +9,7 @@ Este tutorial utiliza como base el compilador de emscripten
 $ git clone https://github.com/emscripten-core/emsdk.git
 $ cd emsdk
 ```
-### Instalar version 1.38.44 y activarla (version estable)
+### Instalar version 1.38.44 y activarla (versión estable)
 ```sh
 $ ./emsdk install 1.38.44
 $ ./emsdk activate 1.38.44
